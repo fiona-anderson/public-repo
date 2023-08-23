@@ -1,1 +1,0 @@
-select * from PBI.Community where statename = 'Maryland'
